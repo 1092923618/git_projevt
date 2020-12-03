@@ -2,7 +2,7 @@ package com.student.model;
 
 public class StudentController {
 
-	private int id;
+	private int strage;  //修改ID为strage
 	private String username;
 	private String password;
 	private int sex;
